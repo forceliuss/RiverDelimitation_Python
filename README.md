@@ -1,4 +1,3 @@
-﻿# RiverDelimitation_Python
 # RiverDelimitation_Python
 
 # Open Webinar: Water Bodies (Rivers) Delineation with Python, Rasterio and Fiona
