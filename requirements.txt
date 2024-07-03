@@ -1,0 +1,5 @@
+
+rasterio==1.2.10
+numpy==1.21.4
+matplotlib==3.4.3
+fiona==1.8.20
