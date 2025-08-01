@@ -1,4 +1,4 @@
-# RiverDelimitation_Python
+# RiverDelimitation(Python)
 
 # Water Bodies (Rivers) Delineation with Python, Rasterio, and Fiona
 
