@@ -14,7 +14,7 @@
 
 ### How to run:
 
-> Install all the libraries in the requirements file. \\
+> Install all the libraries in the requirements file. \n
 > Run the riverDetection_v1.py
 
 	pip run riverDetection_v1
